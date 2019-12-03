@@ -3,6 +3,7 @@ package com.zhangyu.jvm;
 /**
  * @author : zhangyu
  * @description : java虚拟机栈 栈溢出 异常
+ * 线程 请求栈深度大于允许的最大深度
  * VM args : -Xss160k
  * @date : 2019/11/26
  */
